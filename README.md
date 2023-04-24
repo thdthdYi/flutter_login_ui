@@ -1,16 +1,9 @@
 # flutter_login_ui
 
-A new Flutter project.
+flutter로 모바일 앱 로그인 화면 구현시 필요한 기능
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+SingleChildScrollView를 통한 스크롤 및 키보드 드래그 구현
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TextformField InputDecoration 구현
